@@ -26,7 +26,7 @@ end
   wash(50)
   dry(20)
 end
-2.times do
+27.times do
   wear(14)
   wash(70)
   dry(20)
